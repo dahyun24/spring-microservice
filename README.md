@@ -1,6 +1,6 @@
 # 🌱 Spring Microservices in Action 2nd Edition - 학습 저장소
 
-이 저장소는 『스프링 마이크로서비스 코딩 공작소 개정 2판』의 공식 예제([klimtever/manning-smia2](https://github.com/klimtever/manning-smia2))를 기반으로 실습하며 내용을 정리한 학습 저장소입니다.
+이 Repo는 『스프링 마이크로서비스 코딩 공작소 개정 2판』의 공식 예제([klimtever/manning-smia2](https://github.com/klimtever/manning-smia2))를 기반으로 실습하며 내용을 정리한 학습 저장소입니다.
 
 단순한 예제 실행을 넘어, **각 단원의 개념 정리 + 코드 분석 + 추가 실험을 기록**합니다.
 
@@ -37,7 +37,6 @@
    - 각 장마다 개념 요약 + 통신 흐름 다이어그램 작성
 
 3. **자체 실험 및 확장**
-   - Kafka 연동, Keycloak 인증 적용 등
    - 실험 내용은 `lab/` 폴더로 관리
 
 ---
