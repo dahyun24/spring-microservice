@@ -1,8 +1,8 @@
 # 🌱 Spring Microservices in Action 2nd Edition - 학습 저장소
 
-『스프링 마이크로서비스 코딩 공작소 개정 2판』의 공식 예제([klimtever/manning-smia2](https://github.com/klimtever/manning-smia2))를 기반으로 실습하며 내용을 정리한 했습니다.
+『스프링 마이크로서비스 코딩 공작소 개정 2판』의 공식 예제([klimtever/manning-smia2](https://github.com/klimtever/manning-smia2))를 기반으로 실습하며 내용을 정리했습니다.
 
-단순한 예제 실행을 넘어, **각 단원의 개념 정리 + 코드 분석 + 추가 실험을 기록**합니다.
+ **각 단원의 개념 정리 + 코드 분석 + 추가 실험을 기록**합니다.
 
 ---
 
@@ -22,8 +22,6 @@
 | 10장 | 이벤트 기반 아키텍처 (Spring Cloud Stream) | ☐ 예정 | - |
 | 11장 | 분산 추적 (Sleuth, Zipkin) | ☐ 예정 | - |
 | 12장 | 마이크로서비스 배포 | ☐ 예정 | - |
-
-> ☑️ 상태는 챕터 완료 시 수동으로 체크할 예정입니다.
 
 ---
 
